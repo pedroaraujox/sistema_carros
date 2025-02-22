@@ -1,0 +1,14 @@
+D:\FACULDADE\3 SEMESTRE\POO\PTI\bin\Debug\net9.0\PTI.exe
+D:\FACULDADE\3 SEMESTRE\POO\PTI\bin\Debug\net9.0\PTI.deps.json
+D:\FACULDADE\3 SEMESTRE\POO\PTI\bin\Debug\net9.0\PTI.runtimeconfig.json
+D:\FACULDADE\3 SEMESTRE\POO\PTI\bin\Debug\net9.0\PTI.dll
+D:\FACULDADE\3 SEMESTRE\POO\PTI\bin\Debug\net9.0\PTI.pdb
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.AssemblyInfoInputs.cache
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.AssemblyInfo.cs
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.csproj.CoreCompileInputs.cache
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.dll
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\refint\PTI.dll
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.pdb
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.genruntimeconfig.cache
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\ref\PTI.dll
