@@ -12,3 +12,4 @@ D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\refint\PTI.dll
 D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.pdb
 D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.genruntimeconfig.cache
 D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\ref\PTI.dll
+D:\FACULDADE\3 SEMESTRE\POO\PTI\obj\Debug\net9.0\PTI.sourcelink.json
